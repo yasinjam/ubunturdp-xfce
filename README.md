@@ -17,7 +17,7 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
  
  2. Go to [https://remotedesktop.google.com/headless](https://remotedesktop.google.com/headless) and press begin
  
-    ![enter image description here](https://photos.google.com/share/AF1QipOpR5W2hjv8bbLLFCuS6ObPS5eZJB8VCcpkOCVj_D3y0aEKwKhLA99cRWmbSOHe9Q/photo/AF1QipMgxAWUXQrMuYbHgtXj-ZuklPxkTq8eRNc3fDZ-?key=QWwxYkJoTndYN0NkTzNzSHdFb1JJQXYwa1Jwakt3)
+    ![enter image description here](/img/fork.png)
 
 > (Optional  step : You can download  the Chrome remote desktop or
 > chrome extension to use it  in 

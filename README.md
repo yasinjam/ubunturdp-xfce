@@ -75,8 +75,9 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
 
 11.  Your RDP on browser is ready !
 
-    ![img](/img/ub.png)
-   <br/>
+    <p align="center">
+  <img src="/img/best.png"title="hover text">
+</p>
 
  
 # Default PIN is 123456

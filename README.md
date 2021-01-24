@@ -62,9 +62,12 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
  ![fork github](/img/paste.png)
    <br/>
 
- 9.   Wait for a while (will take minimum 5mins and avg 10mins).
+09. Wait for a while (will take minimum 5mins and avg 10mins).
+
     
-    ![img](/img/cancel.png)
+  <img src="/img/cancel.png" title="ubuntu">
+
+
 
 10.  Go to  [https://remotedesktop.google.com/access/](https://remotedesktop.google.com/access/)  to access your RDP. Pin is **123456**
 

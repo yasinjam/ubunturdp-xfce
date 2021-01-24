@@ -1,4 +1,4 @@
-# Windows / Ubuntu/ Mac RDP  
+# Ubuntu RDP  
 
 
 This is just for Testing and Deployment of Applications, and Debugging Purpose. I do not encourage to misuse of Github Actions! **I am not respossible if your  account gets banned!**
@@ -44,7 +44,7 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
  ![fork github](/img/google.png)
  <br/>
    
- 5. Now you will end on the final page **Copy the code of your favorite OS ** [*Tested Ubuntu* ].
+ 5. Now you will end on the final page **Copy the code of Ubuntu ** [*Tested Ubuntu* ].
 
  ![fork github](/img/final.png)
  <br/>

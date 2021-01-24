@@ -2,6 +2,8 @@
 
 
 This is just for Testing and Deployment of Applications, and Debugging Purpose. I do not encourage to misuse of Github Actions! **I am not respossible if your  account gets banned!**
+</br>
+
 **Original Reposity**: [Ubuntu-Grdp](https://github.com/Area69Lab/Ubuntu-Grdp)
 **Credits**:     [Area69Lab](https://github.com/Area69Lab/)
 
@@ -9,13 +11,14 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
 # Things Required
 
  1. *Github account*
- 2. Google account
+ 2. *Google account*
  3. **Brain!**
 ## Steps
 
  1. *Fork this repo to your github account* 
   <br/>
-  ![fork github](/img/fork.png)
+  
+   ![fork github](/img/fork.png)
    
  2. Go to [https://remotedesktop.google.com/headless](https://remotedesktop.google.com/headless) and press begin
 

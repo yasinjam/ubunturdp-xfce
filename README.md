@@ -76,7 +76,7 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
 11.  Your RDP on browser is ready !
 
     <p align="center">
-  <img src="/img/best.png"title="hover text">
+  <img src="/img/best.png" title="ubuntu">
 </p>
 
  

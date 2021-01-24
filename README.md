@@ -75,9 +75,9 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
 
 11.  Your RDP on browser is ready !
 
-    <p align="center">
+    
   <img src="/img/ub.png" title="ubuntu">
-</p>
+
 
  
 # Default PIN is 123456

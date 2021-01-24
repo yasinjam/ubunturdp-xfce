@@ -64,7 +64,7 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
 
  9.   Wait for  a while *will take minimum 5mins and avg 10mins* 
     
-    ![fork github](/img/wait.png)
+    ![fork github](img\wait.png)
    <br/>
      
 
@@ -73,7 +73,8 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
  ![fork github](/img/best.png)
    <br/>
 
-11.  Your RDP on browser is ready ! 
+11.  Your RDP on browser is ready !
+
     ![fork github](/img/ub.png)
    <br/>
 

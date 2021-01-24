@@ -64,7 +64,7 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
 
  9.   Wait for a while (will take minimum 5mins and avg 10mins).
     
-    ![fork github](/img/cancel.png)
+    ![img](/img/cancel.png)
    <br/>
      
 
@@ -75,7 +75,7 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
 
 11.  Your RDP on browser is ready !
 
-    ![fork github](/img/ub.png)
+    ![img](/img/ub.png)
    <br/>
 
  

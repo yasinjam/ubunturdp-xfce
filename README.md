@@ -62,9 +62,9 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
  ![fork github](/img/paste.png)
    <br/>
 
- 9.   Wait for  a while *will take minimum 5mins and avg 10mins* 
+ 9.   Wait for a while (will take minimum 5mins and avg 10mins).
     
-    ![fork github](img\wait.png)
+    ![fork github](/img/cancel.png)
    <br/>
      
 

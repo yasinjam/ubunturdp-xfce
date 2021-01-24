@@ -31,17 +31,21 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
  
   <br/>
 
+  3. Press next and click on Authorize .
+
   ![fork github](/img/next.png)
   <br/>
 
   ![fork github](/img/auth.png)
   <br/>
-  
- 3. Press next and click on Authorize .
-   
+
  4. Continue with your Google account and grant the premissions.
+ ![fork github](/img/google.png)
+ <br/>
    
  5. Now you will end on the final page **Copy the code of your favorite OS ** [*Tested Ubuntu* ].
+ ![fork github](/img/final.png)
+ <br/>
    
  6. Goto your Github account and  ***open the repository which you forked*** , ( *That is  your username/ubunturdp*)
 

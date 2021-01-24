@@ -68,12 +68,16 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
    <br/>
      
 
-10.  Go to  [https://remotedesktop.google.com/access/](https://remotedesktop.google.com/access/)  to access your RDP.
+10.  Go to  [https://remotedesktop.google.com/access/](https://remotedesktop.google.com/access/)  to access your RDP. Pin is **123456**
 
  ![fork github](/img/best.png)
    <br/>
 
+11.  Your RDP on browser is ready ! 
+    ![fork github](/img/ub.png)
+   <br/>
 
+ 
 # Default PIN is 123456
 
 > Dont forget to star the repo and follow me ! Thank you

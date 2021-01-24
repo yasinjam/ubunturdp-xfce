@@ -14,11 +14,12 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
 ## Steps
 
  1. *Fork this repo to your github account* 
+
+  ![fork github](/img/fork.png)
  
  2. Go to [https://remotedesktop.google.com/headless](https://remotedesktop.google.com/headless) and press begin
+ ![fork github](/img/begin.png)
  
-    ![enter image description here](/img/fork.png)
-
 > (Optional  step : You can download  the Chrome remote desktop or
 > chrome extension to use it  in 
 >     as a application in your system or browser alternatively you can use the rdp on  any broswer too!)

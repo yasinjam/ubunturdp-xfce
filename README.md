@@ -45,13 +45,17 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
  <br/>
    
  5. Now you will end on the final page **Copy the code of your favorite OS ** [*Tested Ubuntu* ].
- 
+
  ![fork github](/img/final.png)
  <br/>
    
  6. Goto your Github account and  ***open the repository which you forked*** , ( *That is  your username/ubunturdp*)
 
  7. Now click on actions and under all work flows select ubunturdp
+
+ ![fork github](/img/actions.png)
+
+
 
 > **Important step**
 

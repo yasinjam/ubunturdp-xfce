@@ -55,17 +55,23 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
 
  ![fork github](/img/actions.png)
 
-
-
 > **Important step**
 
 8.  Click Run workflow and paste the copied code earlier to  *paste your code here* box and click  **Run Workflow**
 
+ ![fork github](/img/paste.png)
+   <br/>
+
  9.   Wait for  a while *will take minimum 5mins and avg 10mins* 
-
-
+    
+    ![fork github](/img/wait.png)
+   <br/>
+     
 
 10.  Go to  [https://remotedesktop.google.com/access/](https://remotedesktop.google.com/access/)  to access your RDP.
+
+ ![fork github](/img/best.png)
+   <br/>
 
 
 # Default PIN is 123456

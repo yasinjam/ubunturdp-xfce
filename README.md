@@ -17,7 +17,7 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
 
  1. *Fork this repo to your github account* 
   <br/>
-  
+
    ![fork github](/img/fork.png)
    
  2. Go to [https://remotedesktop.google.com/headless](https://remotedesktop.google.com/headless) and press begin
@@ -28,7 +28,15 @@ This is just for Testing and Deployment of Applications, and Debugging Purpose. 
 > (Optional  step : You can download  the Chrome remote desktop or
 > chrome extension to use it  in 
 >     as a application in your system or browser alternatively you can use the rdp on  any broswer too!)
+ 
+  <br/>
 
+  ![fork github](/img/next.png)
+  <br/>
+
+  ![fork github](/img/auth.png)
+  <br/>
+  
  3. Press next and click on Authorize .
    
  4. Continue with your Google account and grant the premissions.
